@@ -1,0 +1,1 @@
+$title @a actionbar ["",{"text":"Your Velocity is ","color":"yellow"},{"text":"$(vel)","color":"gold"},{"text":" b/s!","color":"yellow"}]
