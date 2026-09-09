@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
   "values": [
     "velocity:lifecycle/load"
   ]
 }
-=======
-    "replace": false,
-    "values": [
-        "velocity:velocity/load"
-    ]
-}
->>>>>>> origin/main

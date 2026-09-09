@@ -2,10 +2,16 @@
 
 Per-player velocity calculator for Minecraft datapacks with multiplayer-safe scoreboard state.
 
+## Compatibility
+
+- Supported range: `1.21.1` through `26.2`
+- Metadata range: `pack_format 48` with `supported_formats [48, 107.1]`
+
 ## Features
 
 - Calculates exact movement velocity from player position deltas every tick.
 - Keeps all values per player in scoreboard objectives.
+- Supports Minecraft versions `1.21.1` through `26.2`.
 - Outputs speed in:
   - Blocks per tick (`VelocityBPT`, scaled by 1000)
   - Blocks per second (`VelocityBPS`, scaled by 1000)
