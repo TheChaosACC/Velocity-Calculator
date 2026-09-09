@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 121,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 999
+    },
+    "description": "Velocity calculator datapack (per-player, multiplayer-safe)"
+  }
+}
