@@ -114,7 +114,6 @@ You can tune these constants in `velocity:lifecycle/load` and run `/reload`:
 1. Put the datapack in your world `datapacks` folder.
 2. Run `/reload`.
 3. Move or sprint and observe actionbar speed.
-4. If you used an older bossbar version of this pack, run `/bossbar remove velocity:speed` once.
 
 ## Notes
 
